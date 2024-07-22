@@ -1,0 +1,9 @@
+git clone <https://github.com/DOUNIA1n/makeCacheMatrix/tree/main>
+
+cd path/to/https://github.com/DOUNIA1n/makeCacheMatrix/tree/main/repository
+
+git add cachematrix.R
+
+git commit -m "Added makeCacheMatrix and cacheSolve functions"
+
+git push origin main
